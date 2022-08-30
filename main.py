@@ -1,5 +1,3 @@
-import time
-import logging
 import requests
 from bs4 import BeautifulSoup as bs
 from urllib.request import urlretrieve
